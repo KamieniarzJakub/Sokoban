@@ -1,0 +1,4 @@
+﻿  Sokoban.c
+C:\Users\kamie\source\repos\Sokoban\Sokoban\Sokoban.c(14,92): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\kamie\source\repos\Sokoban\Sokoban\Sokoban.c(14,88): warning C4024: 'al_show_native_message_box': different types for formal and actual parameter 6
+  Sokoban.vcxproj -> C:\Users\kamie\source\repos\Sokoban\Debug\Sokoban.exe

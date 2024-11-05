@@ -1,0 +1,29 @@
+﻿  Sokoban.c
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Sokoban.c(14,92): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Sokoban.c(14,88): warning C4024: 'al_show_native_message_box': different types for formal and actual parameter 6
+  Player.c
+  Draw.c
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(42,82): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(42,78): warning C4024: 'al_draw_bitmap': different types for formal and actual parameter 4
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(43,91): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(43,87): warning C4024: 'al_draw_bitmap': different types for formal and actual parameter 4
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(44,85): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(44,81): warning C4024: 'al_draw_bitmap': different types for formal and actual parameter 4
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(45,85): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(45,81): warning C4024: 'al_draw_bitmap': different types for formal and actual parameter 4
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(46,88): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(46,84): warning C4024: 'al_draw_bitmap': different types for formal and actual parameter 4
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(47,92): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(47,88): warning C4024: 'al_draw_bitmap': different types for formal and actual parameter 4
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(49,95): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(49,91): warning C4024: 'al_draw_bitmap': different types for formal and actual parameter 4
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(51,92): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(51,88): warning C4024: 'al_draw_bitmap': different types for formal and actual parameter 4
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(52,87): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(52,83): warning C4024: 'al_draw_bitmap': different types for formal and actual parameter 4
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(71,68): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\Sokoban\Draw.c(71,64): warning C4024: 'al_load_font': different types for formal and actual parameter 3
+  DestinationSquares.c
+  ImportMap.c
+  Generating Code...
+  Sokoban.vcxproj -> C:\Users\kamie\Documents\Programowanie niskopoziomowe - sokoban\Sokoban\x64\Debug\Sokoban.exe
